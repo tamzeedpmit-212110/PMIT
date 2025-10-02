@@ -1,0 +1,153 @@
+<resources>
+    <string name="app_name">Care Assistance</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="number">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="med_name">
+        <item>"Anaflex"</item>		<item>"Aristodox"</item>		<item>"Bicozin"</item>		<item>"Calcent"</item>		<item>"Biocox"</item>
+        <item>"Anastrol"</item>		<item>"Aroflo"</item>		<item>"Bilista"</item>		<item>"Caridol"</item>		<item>"Bionex"</item>
+        <item>"Apixa"</item>				<item>"Bisocor"</item>		<item>"Carilax"</item>
+        <item>"Aptin"</item>		<item>"Astagen"</item>		<item>"Bufocart"</item>		<item>"Carvista"</item>		<item>"Brexpa"</item>
+        <item>"Avas"</item>		<item>"Cal D"</item>		<item>"Cefaclav"</item>
+        <item>"Arixon"</item>		<item>"Axim"</item>		<item>"Calcitrol"</item>		<item>"Ceflon"</item>
+        <item>"Arlin"</item>		<item>"Aximin"</item>		<item>"Camlopril"</item>		<item>"Celenta"</item>		<item>"Calcin-O"</item>
+        <item>"Armoda"</item>		<item>"AZ"</item>		<item>"Casalt-D"</item>		<item>"Centradol"</item>		<item>"Cartibon"</item>
+        <item>"Atasin"</item>		<item>"Azepam"</item>		<item>"Cilnior"</item>
+        <item>"Atova"</item>		<item>"Azicin"</item>		<item>"Cinaron"</item>		<item>"Cicloson"</item>		<item>"Cefix"</item>
+        <item>"Avidro"</item>		<item>"Azolin"</item>		<item>"Ciprocin"</item>		<item>"Cloron"</item>		<item>"Criptine"</item>
+        <item>"Avifix"</item>		<item>"Barinix"</item>		<item>"Clofenac"</item>		<item>"Cytomis"</item>		<item>"Diampa"</item>
+        <item>"Avlosef"</item>				<item>"Clopirox"</item>		<item>"Dancel"</item>
+        <item>"Avlotrin"</item>		<item>"Betaone"</item>		<item>"Comet"</item>		<item>"Dapaglip"</item>		<item>"Domiren"</item>
+        <item>"Axodin"</item>		<item>"Betson"</item>				<item>"Defcort"</item>		<item>"Doxicap"</item>
+        <item>"Azithrocin"</item>		<item>"Bislol"</item>		<item>"Deflacort"</item>		<item>"Deflazit"</item>		<item>"Doxiflo"</item>
+        <item>"Azmasol"</item>		<item>"Cadmin Plus"</item>		<item>"Depram"</item>		<item>"Derfin"</item>
+        <item>"Calcid"</item>		<item>"Deprex"</item>		<item>"Dilast"</item>		<item>"Emaprox"</item>
+        <item>"Bivara"</item>		<item>"Calnor"</item>		<item>"Dormitol"</item>		<item>"Dumax"</item>		<item>"Epicet"</item>
+        <item>"Brodil"</item>						<item>"Ecless"</item>		<item>"Erazole"</item>
+        <item>"Caspa"</item>		<item>"Entacyd Plus"</item>
+        <item>"Calorate"</item>		<item>"Cipro-A"</item>		<item>"Eprim"</item>		<item>"Emazid"</item>		<item>"Erosa"</item>
+        <item>"Caloren"</item>		<item>"Ciprox"</item>		<item>"Eslicar"</item>		<item>"Emiset"</item>
+        <item>"Canazole"</item>		<item>"Citapram"</item>		<item>"Esoprol"</item>				<item>"Esocon"</item>
+        <item>"Cardocal"</item>		<item>"Clamox"</item>		<item>"Evit"</item>		<item>"Esonix"</item>		<item>"Esopra"</item>
+        <item>"Carnovas"</item>		<item>"Clinorel"</item>		<item>"Exium"</item>		<item>"Esoral"</item>		<item>"Esoprol"</item>
+        <item>"Castin"</item>		<item>"Cortisol"</item>		<item>"Exor"</item>		<item>"Etorix"</item>
+        <item>"Caviral"</item>		<item>"Danflex"</item>		<item>"Famotack"</item>		<item>"Ezetim"</item>		<item>"Fenadin"</item>
+        <item>"Cerox CV"</item>		<item>"Darven"</item>		<item>"Femastin"</item>		<item>"Fenofex"</item>		<item>"Fenaxo"</item>
+        <item>"Ciaton"</item>		<item>"Dclot"</item>		<item>"Fenocap"</item>				<item>"Fexona"</item>
+        <item>"Citicol"</item>		<item>"Diclofen"</item>		<item>"Fexo"</item>		<item>"Fixocard"</item>		<item>"Flontin"</item>
+        <item>"Clenpic"</item>		<item>"Docopa"</item>		<item>"Flamfix"</item>		<item>"Flamyd"</item>		<item>"Flucostin"</item>
+        <item>"Clonium"</item>		<item>"Dolonil"</item>		<item>"Flexilax"</item>		<item>"Flexifen"</item>		<item>"Fluzole"</item>
+        <item>"Dophylin"</item>		<item>"Flugal"</item>		<item>"Flucloxin"</item>		<item>"Formet"</item>
+        <item>"Cox B"</item>		<item>"Dorel"</item>		<item>"Flurizin"</item>		<item>"Gelicon"</item>		<item>"Frulac"</item>
+        <item>"Daclin"</item>				<item>"Fostat"</item>		<item>"Geminox"</item>		<item>"Gloxen"</item>
+        <item>"Daxetin"</item>		<item>"Dulox"</item>		<item>"Gastrocon-A"</item>		<item>"Glunor"</item>		<item>"Gluvil"</item>
+        <item>"Decomit"</item>		<item>"Editoren"</item>				<item>"Gluvil"</item>		<item>"Kalcoral-D"</item>
+        <item>"Deflux"</item>		<item>"Edolac"</item>		<item>"Giloba"</item>		<item>"Indula"</item>		<item>"Kapron"</item>
+        <item>"Dexcor"</item>		<item>"Efirel"</item>		<item>"Glucart"</item>		<item>"Intrax"</item>		<item>"Leoflox"</item>
+        <item>"Dexifen"</item>		<item>"Elodep"</item>		<item>"Gutfix"</item>		<item>"Kanopas"</item>		<item>"Lerof"</item>
+        <item>"Dinogest"</item>		<item>"Emend"</item>		<item>"Heplol"</item>		<item>"Ketonic"</item>		<item>"Maxclin"</item>
+        <item>"Doxoven"</item>		<item>"Envitor"</item>		<item>"Inflagic"</item>				<item>"Mepcort"</item>
+        <item>"Ebasten"</item>		<item>"Epicon"</item>		<item>"Intimate"</item>		<item>"Kolchin"</item>		<item>"Mexclav"</item>
+        <item>"Eburic"</item>		<item>"Erocin"</item>		<item>"Iracet"</item>		<item>"Letrol"</item>		<item>"Mextil"</item>
+        <item>"Enegra"</item>		<item>"Esotid"</item>		<item>"Isovent"</item>		<item>"Levomax"</item>		<item>"Miganil"</item>
+        <item>"Esoprex"</item>		<item>"Etocox"</item>		<item>"Itra"</item>		<item>"Levoxin"</item>
+        <item>"Etrax"</item>		<item>"Evalin"</item>		<item>"Ketoral"</item>		<item>"Ligazid"</item>		<item>"Misotol"</item>
+        <item>"Febus"</item>		<item>"Famiclav"</item>		<item>"Ketorin"</item>		<item>"Lindamax"</item>
+        <item>"Femzole"</item>		<item>"Febux"</item>		<item>"Levocar"</item>				<item>"Napxon"</item>
+        <item>"Fertil"</item>		<item>"Fenolid"</item>		<item>"Levostar"</item>		<item>"Lopirel"</item>		<item>"Naspro Plus"</item>
+        <item>"Filmet"</item>		<item>"Fezol"</item>		<item>"Lexotanil"</item>		<item>"Losectil"</item>		<item>"Olzap"</item>
+        <item>"Fixonase"</item>		<item>"Finix"</item>		<item>"Linita"</item>		<item>"Lumona"</item>		<item>"Ometid"</item>
+        <item>"Flamex"</item>		<item>"Fixal"</item>		<item>"Lipex"</item>		<item>"Maxclin"</item>		<item>"OP-20"</item>
+        <item>"Floxabid"</item>		<item>"Flocet"</item>		<item>"Livacol"</item>		<item>"Maxpro"</item>		<item>"Opsonil"</item>
+        <item>"Flubex"</item>		<item>"Floxapen"</item>				<item>"Mestiza"</item>		<item>"Ornil"</item>
+        <item>"Gabarol"</item>		<item>"Flucon"</item>		<item>"Maprocin"</item>		<item>"Metaloc"</item>		<item>"Ornizol"</item>
+        <item>"Glipita"</item>		<item>"Fluconal"</item>		<item>"Maxrin"</item>				<item>"Orthorate"</item>
+        <item>"Glycema"</item>		<item>"Fluxit"</item>		<item>"Melcam"</item>		<item>"Mitapro"</item>		<item>"Ortical"</item>
+        <item>"Hemofix"</item>		<item>"Folix"</item>		<item>"Menoral"</item>		<item>"Montair"</item>		<item>"Paricel"</item>
+        <item>"Henlix"</item>		<item>"Galfin"</item>		<item>"Methigic"</item>		<item>"Myolax"</item>		<item>"Pavitex"</item>
+        <item>"Hexinor"</item>		<item>"Glims"</item>		<item>"Mevin"</item>		<item>"Mypril"</item>		<item>"P-Cort"</item>
+        <item>"Impedox"</item>		<item>"Gluconor"</item>		<item>"Mextil"</item>		<item>"Napren"</item>		<item>"Pregaba"</item>
+        <item>"Inclaud"</item>		<item>"Histal"</item>		<item>"Migranil"</item>		<item>"Nebipro"</item>
+        <item>"Informet"</item>		<item>"Hysomide"</item>		<item>"Misotol"</item>		<item>"Nebiren"</item>		<item>Progil"</item>
+        <item>"Intracef"</item>		<item>"Indomet"</item>				<item>"Neorex"</item>		<item>"Progut"</item>
+        <item>"Ivera"</item>		<item>"Inoten"</item>		<item>"Motigut"</item>		<item>"Neurobest"</item>		<item>"Prosma"</item>
+        <item>"Labeta"</item>		<item>"Keto-A"</item>				<item>"Neurocet"</item>
+        <item>"Lamitrin"</item>		<item>"Ketocon"</item>		<item>"Neotack"</item>				<item>"Rabecon"</item>
+        <item>"Largix"</item>		<item>"Keto-D"</item>		<item>"Neucos-B"</item>		<item>"Norium"</item>		<item>"Ranitid"</item>
+        <item>"Lexel"</item>		<item>"Kofen"</item>		<item>"Neuro-B"</item>				<item>"Remophos"</item>
+        <item>"Liorel"</item>		<item>"Lantid"</item>		<item>"Neurolin"</item>		<item>"Omenix"</item>		<item>"Riboclin"</item>
+        <item>"Liveric"</item>		<item>"Larb"</item>		<item>"Nimocal"</item>		<item>"Omidon"</item>		<item>"Rito"</item>
+        <item>"Lopenta"</item>		<item>"Leptic"</item>		<item>"Oclazid"</item>		<item>"Opexa"</item>		<item>"Rivaban"</item>
+        <item>"Loverin"</item>		<item>"Levefix"</item>		<item>"Olistat"</item>		<item>"Orcef"</item>		<item>"Rovantin"</item>
+        <item>"Lubilax"</item>		<item>"Levox"</item>		<item>"Olmecar"</item>		<item>"Oricox"</item>		<item>"Roxcin"</item>
+        <item>"Lulexa"</item>		<item>"Linadus"</item>		<item>"Olmesafe"</item>		<item>"Osartil"</item>		<item>"Rufast"</item>
+        <item>"Meflon"</item>		<item>"Lipitin"</item>		<item>"Oranex"</item>		<item>"Pantonix"</item>		<item>"Rupinv"</item>
+        <item>"Metform"</item>		<item>"Liptor"</item>		<item>"Orili"</item>		<item>"Pendoril"</item>		<item>"Salazine"</item>
+        <item>"Mezest"</item>		<item>"Lodipin"</item>		<item>"Oritam"</item>				<item>"Salocin"</item>
+        <item>"Minolac"</item>		<item>"Lorin"</item>		<item>"Orlev"</item>		<item>"Pramin"</item>		<item>"Terbifin"</item>
+        <item>"Miraclon"</item>		<item>"Magnum"</item>		<item>"Ormin"</item>		<item>"Pregaben"</item>		<item>"Serotal"</item>
+        <item>"Momvit"</item>		<item>"Vasolax"</item>		<item>"Otelast"</item>		<item>"Procef"</item>		<item>"Seroxyn"</item>
+        <item>"Mopride"</item>		<item>"Maxima"</item>		<item>"Oxat"</item>		<item>"Prulax"</item>		<item>"Ursotab"</item>
+        <item>"Nabu"</item>		<item>"Menotox"</item>		<item>"Tocef"</item>		<item>"Tyclav"</item>		<item>"Sitap"</item>
+        <item>"Napa"</item>		<item>"Met"</item>		<item>"Penvik"</item>		<item>"Rabifast"</item>		<item>"Sofomax"</item>
+        <item>"Napa Extend"</item>		<item>"Midolam"</item>		<item>"Peranel"</item>		<item>"Uroflo"</item>		<item>"Tealis"</item>
+        <item>"Valmor"</item>		<item>"Minium"</item>		<item>"Procap"</item>		<item>"Recox"</item>		<item>"Telmitan"</item>
+        <item>"Nazolin"</item>		<item>"Monas"</item>		<item>"Rabeca"</item>		<item>"Rezor"</item>		<item>"Tivion"</item>
+        <item>"Neofloxin"</item>		<item>"Monlumax"</item>		<item>"Rapiflo"</item>		<item>"Rifamax"</item>		<item>"Tizabet"</item>
+        <item>"Olmesan"</item>		<item>"Montril"</item>		<item>"Revira"</item>		<item>"Rivaren"</item>		<item>"Tizanac"</item>
+        <item>"Omastin"</item>		<item>"Moxilocin"</item>		<item>"Revofer"</item>		<item>"Salomax"</item>		<item>"Zoana"</item>
+        <item>"Oral ZB"</item>		<item>"Moxin"</item>		<item>"Rex"</item>		<item>"Sapox"</item>		<item>"Tofanib"</item>
+        <item>"Oral-Z"</item>		<item>"Napro-A"</item>		<item>"Ripril"</item>		<item>"Serivan"</item>		<item>"Tolec"</item>
+        <item>"Osetron"</item>		<item>"Nebilol"</item>		<item>"Rivo"</item>		<item>"Sitagil"</item>		<item>"Vesinac"</item>
+        <item>"Ovazol"</item>		<item>"Nictoris"</item>		<item>"Rofixim"</item>		<item>"Sitazid"</item>		<item>"Trilock"</item>
+        <item>"Ovocal-D"</item>		<item>"Olsart"</item>		<item>"Rofuclav"</item>		<item>"Tenopain"</item>		<item>"Trova"</item>
+        <item>"Pacet"</item>		<item>"Omep"</item>		<item>"Rosuva"</item>		<item>"Tetraben"</item>		<item>"Ultracal-C"</item>
+        <item>"Paloxi"</item>		<item>"Oradol"</item>		<item>"Rupin"</item>		<item>"Thyrox"</item>		<item>"Ultraclav"</item>
+        <item>"Ventonix"</item>		<item>"Orbas"</item>		<item>"Rutix"</item>		<item>"Tibonor"</item>		<item>"Unidox"</item>
+        <item>"Prasulet"</item>		<item>"Ovel"</item>		<item>"Viglita"</item>		<item>"Toltrex"</item>		<item>"Unilin CR"</item>
+        <item>"Primace"</item>		<item>"Oxalid"</item>		<item>"Secrin"</item>		<item>"Tufnil"</item>		<item>"Velox"</item>
+        <item>"Probis"</item>		<item>"Patron"</item>		<item>"Sefin"</item>		<item>"Ubilon"</item>		<item>"Veratin"</item>
+        <item>"Regab"</item>		<item>"Predimax"</item>		<item>"Sepnil"</item>		<item>"Urilax"</item>		<item>"Xcel"</item>
+        <item>"Ribox"</item>		<item>"Tracid"</item>		<item>"Siglita"</item>		<item>"Urinom"</item>		<item>"Zithrin"</item>
+        <item>"Rostil"</item>		<item>"Profen"</item>		<item>"Susten"</item>		<item>"Viev"</item>		<item>"Zithrox"</item>
+        <item>"Rosutin"</item>		<item>"Prugen"</item>		<item>"Synflex"</item>		<item>"Valex CR"</item>		<item>"Zinex"</item>
+        <item>"Rupadin"</item>		<item>"Unipirl"</item>		<item>"Telmilok"</item>		<item>"Ventofil"</item>		<item>"Ursodil"</item>
+        <item>"Safoxol"</item>		<item>"Ramipro"</item>		<item>"Telsan"</item>		<item>"Viax"</item>		<item>"Velogen"</item>
+        <item>"Sparlin"</item>		<item>"Ranidin"</item>		<item>"Tenorix"</item>		<item>"Vigatin"</item>		<item>"Xicotil"</item>
+        <item>"Tamona"</item>		<item>"Ranola"</item>		<item>"Thyrin"</item>		<item>"Visral"</item>		<item>"Zico"</item>
+        <item>"Telma"</item>		<item>"Rostab"</item>		<item>"Ticamet"</item>		<item>"Vitabion"</item>		<item>"Zilsart"</item>
+        <item>"Temonix"</item>		<item>"Rosugen"</item>		<item>"Timex"</item>		<item>"Xarelta"</item>		<item>"Xindal"</item>
+        <item>"Tenoflex"</item>		<item>"Ruvastin"</item>		<item>"Tofator"</item>		<item>"Xinc B"</item>		<item>"Xitil"</item>
+        <item>"Terbicon"</item>		<item>"Secoclav"</item>		<item>"Trupan"</item>		<item>"Xyotil"</item>		<item>"Zimax"</item>
+        <item>"Tibilon"</item>		<item>"Secomax"</item>		<item>"Tylace"</item>		<item>"Viera"</item>		<item>"Thyrolar"</item>
+        <item>"Tigel"</item>		<item>"Sefril"</item>		<item>"Uripam"</item>		<item>"Xalcort"</item>		<item>"Ursotab"</item>
+        <item>"Tolmic"</item>		<item>"Vigorex"</item>		<item>"Uriten"</item>		<item>"Xbac"</item>		<item>"Xfin"</item>
+        <item>"Triocim"</item>		<item>"Sugamet"</item>		<item>"Uromax"</item>		<item>"Xerova"</item>		<item>"Tigicon"</item>
+        <item>"Tufnil"</item>		<item>"Telukast"</item>		<item>"Uromax-D"</item>		<item>"Zerotil"</item>		<item>"Tenoloc"</item>
+        <item>"Aceta"</item>		<item>"Acemox"</item>		<item>"Ace"</item>		<item>"Adnix"</item>		<item>"Adnix"</item>
+        <item>"Abixa"</item>		<item>"Acerux"</item>		<item>"Airprex"</item>		<item>"A-Cal"</item>		<item>"Algin"</item>
+        <item>"Acebid"</item>		<item>"Afix"</item>		<item>"Alarid"</item>		<item>"Aglip"</item>		<item>"Abdolax"</item>
+        <item>"Acicaft"</item>		<item>"Alclor"</item>		<item>"Alatrol"</item>		<item>"Alestor"</item>
+        <item>"Acical"</item>		<item>"Alexid"</item>		<item>"Alice"</item>		<item>"Ameloss"</item>		<item>"Anlet"</item>
+        <item>"Acifix"</item>		<item>"Algecal D"</item>		<item>"Alve"</item>		<item>"Aprima"</item>
+        <item>"Aciphin"</item>		<item>"Almitan"</item>		<item>"Amiron"</item>		<item>"Arinet"</item>		<item>"Astatin"</item>
+        <item>"Acirtin"</item>		<item>"Alodia"</item>		<item>"Amocin"</item>		<item>"Axetil"</item>		<item>"Avista"</item>
+        <item>"Acora"</item>		<item>"Alton"</item>		<item>"Amodis"</item>		<item>"Azilpres"</item>		<item>"Azitac"</item>
+        <item>"Adafil"</item>		<item>"Amocal"</item>		<item>"Anadol"</item>		<item>"AztaCap"</item>		<item>"B126"</item>
+        <item>"Adegra"</item>		<item>"A-Mycin"</item>		<item>"Anclog"</item>		<item>"Betasef"</item>		<item>"Benazin"</item>
+        <item>"Alaclov"</item>				<item>"Antazol"</item>		<item>"Biltin"</item>
+        <item>"Amdocal"</item>		<item>"Anset"</item>		<item>"Anzitor"</item>		<item>"Biofol"</item>		<item>"Betafix"</item>
+        <item>"Amdocal plus"</item>		<item>"Aprocin"</item>		<item>"Arovent"</item>		<item>"Brezofil"</item>		<item>"Betatin"</item>
+        <item>"Amipride"</item>		<item>"Arbitan"</item>		<item>"Barif"</item>				<item>"Biocid"</item>
+
+
+
+    </string-array>
+
+</resources>
